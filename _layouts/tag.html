@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="container">
+  <h1 class="page-title">标签: {{ page.title }}</h1>
+  <div class="row">
+    {% assign tag_posts = site.tags[page.title] %}
+    {% for post in tag_posts %}
+      <div class="col col-4 col-d-6 col-t-12">
+        <article>
+          <h2>{{ post.title }}</h2>
+          <p>{{ post.excerpt | strip_html }}</p>
+          <p><a href="{{ post.url }}">阅读更多...</a></p>
+        </article>
+      </div>
+    {% endfor %}
+  </div>
+</div>

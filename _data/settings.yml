@@ -1,0 +1,93 @@
+#-------------------------------
+# Site Settings
+title: 張純如工作室
+description: 文字是保存靈魂精華的唯一方式。
+logo: "/images/logo1.png" # You can add own logo. For example "/images/logo.svg".
+logo_dark: "/images/logo1.png"
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Navigation Settings
+menu_settings:
+  menu_items:
+    - title: "首頁"
+      url: "/"
+    - title: "視音"
+      url: "/videos/"
+    - title: "張純如工作室"
+      url: "/about/"
+  
+  
+
+  
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  enable: true
+  hero_title: 相信一個人的力量
+  hero_description: 文字是保存靈魂精華的唯一方式。演講最令我激動之處在於，即使演講者已然作古，長眠地下，他們的精神依然永存。對我來說，這是真正的宗教——永生的最佳方式。
+
+
+#-------------------------------
+# Tags Section Settings
+tags_section:
+  enable: true
+  number_posts: 3 # To control how many posts to show under each tag section, set the value to a number. Three is the default.
+  number_columns: 3 # You can specify the number of columns from 1-4 for large screen resolution. By default, the theme uses three columns grid.
+  tags:
+    - tag: "專訪"
+    - tag: "張盈盈專欄"
+    - tag: "熱點"
+    - tag: "紀念"
+    - tag: "超级純如"
+
+# You can add many tag sections to the homepage; each section will show the recent posts by the tag.
+
+
+#-------------------------------
+
+
+
+#-------------------------------
+# Footer Settings
+footer_description: 人其實是死兩次：一次是肉體的死亡，一次是在他人的記憶中消失
+
+
+# Social Links
+social:
+- {icon: "twitter", link: "https://x.com/irischangstudio"}
+- {icon: "facebook", link: "https://www.facebook.com/irischangstudio/"}
+- {icon: "pinterest", link: "https://pinterest.com"}
+- {icon: "youtube", link: "https://www.youtube.com/@irischangstudio"}
+
+# Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp_settings:
+  enable: true
+  mailchimp_title: 
+  mailchimp_description: 從我的作家生涯中我領悟到，聽從自己的心聲和內在激情，努力創造擁有永久價值的東西，這才是通向成功的不二法門。很多時候，這意味著獨闢蹊徑。
+ 
+
+
+#-------------------------------
+
+
+# NOTE
+# Danto theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus_identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+
+#-------------------------------
+# Google Analytics
+google_analytics: # Add your GA Tracking Id
