@@ -64,6 +64,6 @@ tags: [紀念]
 
 
 
-<a href="https://thatirischang.github.io/pdf/2_Adele Suslick.pdf" target="_blank">
-  <img src="https://thatirischang.github.io/images/Adele Suslick.jpg" alt="test" title="点击查看PDF">
+<a href="https://jp.irischanglabs.com/pdf/2_Adele Suslick.pdf" target="_blank">
+  <img src="https://jp.irischanglabs.com/images/Adele Suslick.jpg" alt="test" title="点击查看PDF">
 </a>

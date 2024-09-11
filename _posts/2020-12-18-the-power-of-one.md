@@ -18,7 +18,7 @@ tags: [專訪]
 
 大學畢業之後，純如曾在《芝加哥美聯社》和《芝加哥論壇報》做實習記者後，又回到了伊利諾大學讀了半年的歷史系，不久約翰·霍普金斯大學的寫作項目給了純如一個助教獎學金，為期一年的寫作碩士課程。純如繼續深造，於1991年5月取得了霍普金斯大學寫作碩士學位。
 
-<center><img src="https://thatirischang.github.io/images/100.jpg" title="test"></center>
+<center><img src="https://jp.irischanglabs.com/images/100.jpg" title="test"></center>
 <br>
  <em><center>（張純如約翰·霍普金斯大學寫作碩士畢業證書）</center> <em>
 
@@ -26,27 +26,27 @@ tags: [專訪]
 
 純如一生寫了三本書，第一本書《中國導彈之父——錢學森之謎》1995年出版，第二本書《南京暴行：被遺忘的大屠殺》1997年出版，第三本書《美國華人史》2003年出版。
 
-<center><img src="https://thatirischang.github.io/images/129.jpg" title="test"></center>
+<center><img src="https://jp.irischanglabs.com/images/129.jpg" title="test"></center>
 <br>
  <em><center>《中國導彈之父——錢學森之謎》</center> <em>
 <br>
-<center><img src="https://thatirischang.github.io/images/128.jpg" title="test"></center>
+<center><img src="https://jp.irischanglabs.com/images/128.jpg" title="test"></center>
 <br>
  <em><center>《南京暴行：被遺忘的大屠殺》</center> <em>
 <br>
-<center><img src="https://thatirischang.github.io/images/130.jpg" title="test"></center>
+<center><img src="https://jp.irischanglabs.com/images/130.jpg" title="test"></center>
 <br>
  <em><center>《美國華人史》</center> <em>
 <br>
 
 我剛才非常簡單的介紹純如的生平，如果有讀者想深入瞭解純如，可以閱讀張盈盈女士撰寫的《張純如，無法忘卻歷史的女子》一書。這是一本張媽媽對女兒的回憶錄，也是一本張純如的生平傳記，其中詳細描述了張純如的一生。
 
-<center><img src="https://thatirischang.github.io/images/131.jpg" title="test"></center>
+<center><img src="https://jp.irischanglabs.com/images/131.jpg" title="test"></center>
 <br>
 
 ### 2.張純如生長在一個什麼樣的家庭，她擁有什麼樣的文化傳承？
 
-<center><img src="https://thatirischang.github.io/images/132.jpg" title="test"></center>
+<center><img src="https://jp.irischanglabs.com/images/132.jpg" title="test"></center>
 <br>
  <em><center>（純如六歲時的全家福，後排為張純如父母，前排為外公張鐵君（左下一）和外婆孫以白）</center> <em>
 
@@ -72,11 +72,11 @@ tags: [專訪]
 
 但促使她下決心動筆的是1994年12月在美國加州舊金山灣區庫比蒂諾的一場南京大屠殺圖片展， “那些圖片之恐怖激發了我寫這本書的念頭。”她說， “這本書能不能賺錢我不管，對我來說，我就是要讓世界上所有的人了解1937年南京發生的事情。”所以純如決定去尋找南京大屠殺的真相，在1995年1月就前往美國國會圖書館及耶魯大學神學院圖書館收集數據，後來又在1995年7月獨自一人前往南京實地採訪南京大屠殺的幸存者。
 
-<center><img src="https://thatirischang.github.io/images/127.jpg" title="test"></center>
+<center><img src="https://jp.irischanglabs.com/images/127.jpg" title="test"></center>
 <br>
  <em><center>（純如在檔案館找資料時的照片）</center> <em>
 
-<center><img src="https://thatirischang.github.io/images/133.jpg" title="test"></center>
+<center><img src="https://jp.irischanglabs.com/images/133.jpg" title="test"></center>
 <br>
  <em><center>（純如採訪南京大屠殺幸存者夏淑琴）</center> <em>
 
@@ -84,11 +84,11 @@ tags: [專訪]
 
 在寫作時，她的資料中屢次提到約翰·拉貝此人，但是戰後沒有任何人知道他回到德國後的情況。純如不斷地尋找，終於找到他的外孫女，而發現了《拉貝日記》。《拉貝日記》的發現是純如對南京大屠殺這段歷史作出的巨大貢獻。
 
-<center><img src="https://thatirischang.github.io/images/134.jpg" title="test"></center>
+<center><img src="https://jp.irischanglabs.com/images/134.jpg" title="test"></center>
 <br>
  <em><center>（《拉貝日記》部分內容複印件 張純如捐贈南京紀念館）</center> <em>
 
-<center><img src="https://thatirischang.github.io/images/135.jpg" title="test"></center>
+<center><img src="https://jp.irischanglabs.com/images/135.jpg" title="test"></center>
 <br>
 <em><center>（張純如像在侵華日軍南京大屠殺遇難同胞紀念館）</center> <em>
 
@@ -118,7 +118,7 @@ tags: [專訪]
 
 我居住在杭州，最愛去的地方就是保俶塔跟岳王廟，在那裡我彷彿能看到當年純如拍照的身影。我相信，不管歲月如何流逝，純如與我在靈魂和精神深處有著跨越時空的感應。
 
-<center><img src="https://thatirischang.github.io/images/136.jpg" title="test"></center>
+<center><img src="https://jp.irischanglabs.com/images/136.jpg" title="test"></center>
 <br>
 <em><center>（張純如在杭州岳王廟）</center> <em>
 

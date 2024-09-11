@@ -10,7 +10,7 @@ tags: [紀念]
 ---
 > 張純如紀念館是首個全面展示美籍華人、淮安之子、著名歷史學家及人權鬥士張純如生平事跡的專題館。紀念館位於淮安市淮陰區，坐落於古淮河北岸，佔地面積3.6萬平方米，展覽面積約1000平方米。
 
-<center><img src="https://thatirischang.github.io/images/144.jpg" title="test"></center>
+<center><img src="https://jp.irischanglabs.com/images/144.jpg" title="test"></center>
 <br>
 
 紀念館背倚淮陰大地，面朝東方，建築風格莊重典雅，內飾樸素沉靜。紀念館以「勿忘國恥、珍愛和平、緬懷英雄、激勵後人」為宗旨，通過「不能忘卻的紀念」這一情感紐帶進行設計佈局和展覽陳列。館內展覽分為六個板塊：
@@ -24,7 +24,7 @@ tags: [紀念]
 * 
 紀念館於2017年4月7日正式開館，淮安市委、市政府將舉行隆重的開館典禮，以緬懷張純如女士的偉大貢獻。紀念館佇立於淮河岸邊，將受到海內外中華兒女和國際友人的廣泛敬仰。
 
-<center><img src="https://thatirischang.github.io/images/145.jpg" title="test"></center>
+<center><img src="https://jp.irischanglabs.com/images/145.jpg" title="test"></center>
 <br>
 
 營業時間：週二至週日上午8:30至下午5:00，週一休息。
